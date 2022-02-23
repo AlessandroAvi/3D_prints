@@ -1,7 +1,7 @@
 # 3D_prints
 
 
-<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/1.jpg" width=50% height=50%> <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/2.jpg" width=50% height=50%>
+<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/1.jpg" width=40% height=40%> <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/2.jpg" width=40% height=40%>
 
 
 
