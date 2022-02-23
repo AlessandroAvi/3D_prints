@@ -21,4 +21,4 @@
 
 <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/19.jpg" width=40% height=40%> <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/20.jpg" width=40% height=40%>
 
-<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/21.jpg" width=40% height=40%> 
+<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/21.jpg" width=40% height=40%> <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/22.jpg" width=40% height=40%>
