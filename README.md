@@ -25,4 +25,8 @@
 
 <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/23.jpg" width=40% height=40%> <img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/24.jpg" width=40% height=40%>
 
-<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/25.jpg" width=40% height=40%>
+<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/25.jpg" width=40% height=40%><img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/26.jpg" width=40% height=40%>
+
+<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/27.jpg" width=40% height=40%><img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/28.jpg" width=40% height=40%>
+
+<img src="https://github.com/AlessandroAvi/3D_prints/blob/main/Figures/29.jpg" width=40% height=40%>
